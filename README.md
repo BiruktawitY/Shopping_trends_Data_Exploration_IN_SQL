@@ -1,0 +1,1 @@
+# Shopping_trends_Data_Exploration_IN_SQL
