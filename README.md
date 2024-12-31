@@ -56,19 +56,18 @@ SELECT Gender, COUNT(*) total_count
 FROM shopping_trends_copy
 GROUP BY Gender;
 ```
-Output:
+**Output**:
 
 ![image](https://github.com/user-attachments/assets/8f55c7a5-47f6-4937-84d3-0024fbaa9a11)
 
 **Visualization**
 
-This chart below is the distribtuion of customers based on gender:
+This chart below visualizes the distribution of customers based on gender, highlighting a higher number of male customers compared to female customers:
 
 ![image](https://github.com/user-attachments/assets/0d70b95c-bdb2-415d-bc78-0898ab6d6577)
 
-The dataset contains a higher number of a male customers compared to female customers.
+**Subscription Status and Promo Code Distribution by Gender** :
 
-Subscription status and promo code distribution based on gender 
 and based on the image you can tell no female neither used a promo code nor have a subscription status
 ![image](https://github.com/user-attachments/assets/6835c88c-1b87-4f1a-9b31-371f2b64831b)
 
