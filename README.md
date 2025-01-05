@@ -9,7 +9,7 @@
   - [Geographic Distribution](#geographic-distribution)
   - [Payment Method Preferences Distribution](#payment-method-preferences-distribution)
   - [Seasonal Sales Trends Analysis](#seasonal-sales-trends-analysis)
-  - [ Analysis of Purchase Frequency](#analysis-of-purchase-frequency)
+  - [Purchase Frequency Distribution](#purchase-frequency-distribution)
 
 
  ### Project Overview
@@ -180,7 +180,7 @@ The SQL output table above provides a breakdown of counts and total expenditure 
 ![image](https://github.com/user-attachments/assets/61f9dcdb-9989-4828-a432-9249465d9928)
 The bar charts provided illustrate the seasonal spending distribution across various product categories, demonstrating a consistent dominance of clothing in total expenditures throughout the seasons, For instance, during the spring, clothing leads with a spending amount of $27,692, significantly outperforming other categories. This pattern is repeated in other seasons, with clothing maintaining the highest spending in winter and summer as well. The chart also reveal fluctuating but substantial expendictures on accessories and footwear, highlighting seasonal variations in consumer preferences.
 
-## Analysis of Purchase Frequency
+## Purchase Frequency Distribution 
 To determine the purchase patterns of our customers, we analyzed the frequency of purchases using the following SQL query:
 ```sql
 SELECT `Frequency of Purchases`, count(*) total_count
