@@ -7,6 +7,7 @@
   - [Gender Distribution](#gender-distribution)
   - [Category Distribution](#category-distribution)
   - [Geographic Distribution](#geographic-distribution)
+  - [Payment Method Preferences Distribution](#payment-method-preferences-distribution)
   - [Seasonal Sales Trends Analysis](#seasonal-sales-trends-analysis)
   - [ Analysis of Purchase Frequency](#analysis-of-purchase-frequency)
 
