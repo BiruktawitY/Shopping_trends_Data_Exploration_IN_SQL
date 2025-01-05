@@ -1,11 +1,19 @@
  # Customer shopping trends Data Exploration
+ ## Table of Contents
   - [Project Overview](#project-overview)
-  - [Gender Distribution](#gender-distribution)
+  - [Data source](#data-source)
+  - [Tools Used](#tools-used)
   - [Data prepartaion](#data-preparation)
+  - [Gender Distribution](#gender-distribution)
+  - [Category Distribution](#category-distribution)
+  - [Geographic Distribution](#geographic-distribution)
+  - [Seasonal Sales Trends Analysis](#seasonal-sales-trends-analysis)
+  - [ Analysis of Purchase Frequency](#analysis-of-purchase-frequency)
+
 
  ### Project Overview
-  This project aims to uncover insights into the latest shopping trends by analyzing customer behaviours and transaction patterns. Our goal is to understand how different factors such as location, gender influence shopping habits and how these 
-
+  This project aims to uncover insights into the latest shopping trends by analyzing customer behaviours and transaction patterns. Our goal is to understand how different factors such as location, gender influence shopping habits. This analysis is supported by SQL for data manipulation and Tableau for visualization, seeks to uncover actionable trends that inform promo usage activities, enhancing customer engagement and others. 
+  
  ### Data source 
 This analysis is based on a dataset from kaggle, which can be found [here](https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset).\
 The dataset shopping_trends.csv contains 3900 rows with 19 columns. \
